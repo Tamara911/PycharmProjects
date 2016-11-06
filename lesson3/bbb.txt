@@ -1,0 +1,1 @@
+http://www.google.com:8000/aaa/bbb/ccc?key1=value1&key2=value2
